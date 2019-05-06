@@ -1,0 +1,6 @@
+.leftNavImg{
+    height: 100vh;
+    width: 60vh;
+    position: fixed;
+    z-index: -99;
+}
