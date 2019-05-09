@@ -1,0 +1,28 @@
+.articledetail{
+    padding: 30px 100px;
+    width: 100%;
+}
+.article-info{
+    width: 100%;
+    display: flex;
+}
+.article-info div{
+    margin-right: 80px;
+}
+.article-icon{
+    margin-right: 8px;
+}
+article{
+    padding: 20px 0 0 0;
+    font-size: 16px;
+    line-height: 1.8;
+}
+.showLove{
+    padding-top: 30px;
+    text-align: center;
+}
+.showLove div{
+    font-size: 12px;
+    margin: 10px 0;
+    color: #999999;
+}

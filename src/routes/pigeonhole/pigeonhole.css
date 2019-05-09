@@ -1,0 +1,13 @@
+.pigeonhole{
+    display: flex;
+}
+.timeNode{
+    padding: 50px 150px;
+}
+.ant-timeline-item-content{
+    font-size: 16px;
+    margin: 0 0 0 28px;
+}
+.ant-timeline-item{
+    padding: 0 0 30px;
+}

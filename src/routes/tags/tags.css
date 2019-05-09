@@ -1,0 +1,40 @@
+.tags{
+    display: flex;
+
+}
+.ant-tag{
+    font-size: 24px;
+    height: 50px;
+    line-height: 50px;
+    margin: 10px;
+}
+.tagsdetail{
+    width: 100%;
+    
+    padding: 0 35vh;
+    display: flex;
+   
+    align-items: center;
+    justify-content: center;
+}
+.tagsdetail div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: baseline;
+}
+.tagsdetail a{
+    display: inline-block;
+    padding: 10px;
+    font-size: 28px;
+    color: rgb(65, 64, 64);
+    text-decoration: underline;
+}
+.tagsdetail a:hover{
+    font-size: 50px;
+    font-weight: 500;
+    color: rgb(101, 133, 221);
+}
+.tagsdetail .tagAes{
+    font-size: 40px;
+}

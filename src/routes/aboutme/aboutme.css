@@ -1,0 +1,32 @@
+.aboutme{
+    display: flex;
+    /* position: relative; */
+
+}
+.ant-card-meta-title{
+    font-size: 18px;
+}
+.mycard-text{
+    text-align: center;
+    font-size: 14px;
+}
+.persondetail{
+    /* position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%) */
+
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.personcontact{
+    width:400px;
+    height: 400px;
+    background-color: white;
+    position: absolute;
+    border-radius: 20px;
+    
+}
